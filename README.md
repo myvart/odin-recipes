@@ -1,2 +1,2 @@
-# odin-project-odin-recipes
+# Odin Recipes
 Odin Project: Odin Recipes Student Project
