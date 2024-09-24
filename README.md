@@ -1,2 +1,3 @@
 # Odin Recipes
-Odin Project: Odin Recipes Student Project
+
+This repository presents the codebase of my solution to Odin Project: Recipes assignment.
